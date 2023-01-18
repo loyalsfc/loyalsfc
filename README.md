@@ -37,8 +37,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=loyalsfc&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1](https://streak-stats.demolab.com?user=loyalsfc&theme=dark&hide_border=true"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
