@@ -37,8 +37,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/loyalsfc/github-readme-stats"><img alt="Olumide's Github Stats" src="https://github-readme-stats.vercel.app/api?username=loyalsfc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://Olumide's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyalsfc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=loyalsfc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
