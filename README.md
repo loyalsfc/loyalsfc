@@ -31,10 +31,10 @@
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loyalsfc&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyalsfc&show_icons=true&theme=dark)
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyalsfc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyalsfc&show_icons=true&theme=radical)
 <br/>
 <br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=loyalsfc)](https://github.com/anuraghazra/github-readme-stats)
