@@ -41,6 +41,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=loyalsfc&theme=highcontrast&hide_title=true" />
 </a>
 <br/>
+[![wakatime](https://wakatime.com/badge/user/3d68902a-03f3-418c-8309-e6e9a40ac5c5.svg)](https://wakatime.com/@3d68902a-03f3-418c-8309-e6e9a40ac5c5)
+<br/>
 <br/>
 
 ## Connect with me:
